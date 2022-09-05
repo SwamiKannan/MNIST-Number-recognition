@@ -14,3 +14,4 @@ https://yann.lecun.com/exdb/mnist/
 •	Test data: 10000
 ## Key asks:
 •	Build a classification model using CNN objects from PyTorch 
+•	Identify the images of the numbers as the actual number
